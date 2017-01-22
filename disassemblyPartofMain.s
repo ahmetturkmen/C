@@ -1,5 +1,5 @@
-// When (objdump -M intel -D firstprog | grep -A20 main.:) command inputted by user for firstprog. Note that the syntax below
-// is for intel processors and it is for just <main> part of frirsprog.c because we defined it with (-M intel) and (grep -A20 main.:).
+; When (objdump -M intel -D firstprog | grep -A20 main.:) command inputted by user for firstprog. Note that the syntax below
+; is for intel processors and it is for just <main> part of frirsprog.c because we defined it with (-M intel) and (grep -A20 main.:).
 
 
 0000000000400526 <main>:
